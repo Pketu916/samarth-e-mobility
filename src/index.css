@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container-custom {
+    @apply mx-auto max-w-[1440px];
+  }
+
+  .nav-link{
+    @apply text-white text-sm leading-[22.4px] tracking-[-0.6px] py-[9px] px-5 text-nowrap rounded-[11px];
+  }
+
+  .soft-bg {
+      @apply rounded-[14px] bg-gradient-to-b from-[#FFFFFF12] to-[#FFFFFF1C] transition-all duration-300 hover:from-[#ffffff1f] hover:to-[#ffffff33];
+  }
+ 
+ 

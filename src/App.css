@@ -1,0 +1,15 @@
+#root {
+  /* max-width: 1280px; */
+  margin: 0 auto;
+  padding: 30px;
+  text-align: center;
+}
+
+@font-face {
+  font-family: 'BDO Grotesk';
+  src: url('../public/bdo-grotesk-font-family/BDOGrotesk-Regular-BF648a656fd543a.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
